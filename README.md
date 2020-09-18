@@ -4,6 +4,8 @@
 ### To run this app use following commands:- 
     npm install 
     expo start
+    
+![morph_svg](https://user-images.githubusercontent.com/43451046/93576995-27c96f00-f9b9-11ea-865f-a48adb5683ba.gif)
 ### Libraries used are:- 
     "@expo/vector-icons": "^10.2.1",
     "flubber": "^0.4.2",
