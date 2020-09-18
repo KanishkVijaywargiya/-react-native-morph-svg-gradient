@@ -5,7 +5,7 @@
     npm install 
     expo start
     
-![morph_svg](https://user-images.githubusercontent.com/43451046/93578991-94456d80-f9bb-11ea-8c68-36be75fe1aa9.gif)
+![morph_svg](https://user-images.githubusercontent.com/43451046/93579335-f7370480-f9bb-11ea-9856-0336192586f8.gif)
 
 ### Libraries used are:- 
     "@expo/vector-icons": "^10.2.1",
@@ -40,5 +40,6 @@
       })
   }
 
-![morph_svg](https://user-images.githubusercontent.com/43451046/93578587-21d48d80-f9bb-11ea-9806-c310cc79e568.gif)
+![morph_svg](https://user-images.githubusercontent.com/43451046/93579335-f7370480-f9bb-11ea-9856-0336192586f8.gif)
+
 BlaceNova Inc. [TM]
